@@ -1,0 +1,37 @@
+id,section,utterance_type,target,text
+P01,object_naming,assessment_prompt,book,What is this?
+P02,object_naming,semantic_cue,book,It is a thing you read to learn.
+P03,object_naming,phonemic_cue,book,"It starts with B, like boy."
+P04,object_naming,model_cue,book,Say book.
+P05,object_naming,assessment_prompt,ball,Can you tell me what this is called?
+P06,object_naming,semantic_cue,ball,You throw it and catch it.
+P07,object_naming,phonemic_cue,ball,"It starts with B, like bat."
+P08,object_naming,model_cue,ball,Say ball.
+P09,object_naming,assessment_prompt,knife,What do we call this one?
+P10,object_naming,semantic_cue,knife,You use it to cut your food.
+P11,object_naming,phonemic_cue,knife,"It starts with an N sound, like nose."
+P12,object_naming,model_cue,knife,Say knife.
+P13,object_naming,assessment_prompt,cup,What is this called?
+P14,object_naming,semantic_cue,cup,You drink coffee from it.
+P15,object_naming,phonemic_cue,cup,"It starts with a K sound, like cat."
+P16,object_naming,model_cue,cup,Say cup.
+P17,object_naming,assessment_prompt,safety pin,Can you name this object?
+P18,object_naming,semantic_cue,safety pin,You use it to hold cloth together.
+P19,object_naming,phonemic_cue,safety pin,"It starts with S, like sun."
+P20,object_naming,model_cue,safety pin,Say safety pin.
+P21,word_fluency,assessment_prompt,,Name as many animals as you can in thirty seconds.
+P22,word_fluency,semantic_cue,,Think of animals you might see on a farm.
+P23,word_fluency,supportive,,"Keep going, you're doing great."
+P24,sentence_completion,assessment_prompt,feet,I wear shoes on my...
+P25,sentence_completion,assessment_prompt,bed,At night I go to...
+P26,sentence_completion,assessment_prompt,pepper,Salt and...
+P27,sentence_completion,phonemic_cue,pepper,"It starts with P, like pan."
+P28,responsive_speech,assessment_prompt,scissors,What do you use to cut paper?
+P29,responsive_speech,assessment_prompt,white,What color is snow?
+P30,responsive_speech,assessment_prompt,brush teeth,What do you do with a toothbrush?
+P31,responsive_speech,semantic_cue,brush teeth,You use it every morning in the bathroom.
+P32,general,instruction,,"Let's start by naming some objects, one at a time."
+P33,general,supportive,,"Take your time, there's no rush."
+P34,general,supportive,,"That's okay, let's try again."
+P35,general,supportive,,Great job!
+P36,general,clarification,,"Sorry, could you say that one more time?"

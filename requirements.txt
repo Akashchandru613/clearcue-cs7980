@@ -1,0 +1,10 @@
+# Core
+pandas
+python-dotenv
+
+# ASR systems
+openai-whisper      # local Whisper model (free, runs on your computer)
+google-genai        # Gemini API client (for Gemini 3.5 Transcribe)
+
+# Evaluation
+jiwer               # standard WER library, used to double-check scripts/compute_wer.py
